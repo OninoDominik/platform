@@ -1,6 +1,19 @@
 var map;
 $.mobile.changePage("#three");
 $.mobile.changePage("#one");
+var gpslat = 48.0;
+var gpslng = 7.3;
+	
+function positionneMoi(){	
+navigator.geolocation.getCurrentPosition(
+	function(position)
+	{
+			gpslat = position.coords.latitude;
+			gpslng = position.coords.longitude;
+			console.log("yipiii kayyyyyyyyyyyyyye");
+	})
+}
+positionneMoi();
 
 var db = null;
 function remplirListe(){
@@ -29,39 +42,52 @@ function remplirListe(){
 				strhtml += res.rows.item(i).gpslng;
 				strhtml += '</a></li>';
 				
-				//Ajouter la chaine à la liste
 				$("#listeLieux").append(strhtml);
 			}
-			
-			//Rafraichir graphiquement la liste
 			$("#listeLieux").listview("refresh");
-			
-			//Ajouter la commande clic
 			$("#listeLieux a").click(clicListe);			
 		},
-		function(error) {
+		function(error) 
+		{
 			console.log('SELECT SQL statement ERROR: ' + error.message);
 		}
 	);
 };
 
-document.addEventListener('deviceready', function() {
-  db = window.sqlitePlugin.openDatabase({
+document.addEventListener('deviceready', function() 
+{
+  db = window.sqlitePlugin.openDatabase
+  (
+  {
     name: 'pointsInteret.db',
     location: 'default',
-  });
-  db.transaction(function(tx) {
+  }
+  );
+  db.transaction
+  (
+  function(tx) 
+  {
 	tx.executeSql('CREATE TABLE IF NOT EXISTS pointsInteret (nom TEXT, description TEXT, gpslat FLOAT, gpslng FLOAT)');
-	}, function(error) {
+	}, 
+	function(error) 
+	{
 		console.log('Transaction ERROR: ' + error.message);
-	}, function() {
+	}, 
+	function() 
+	{
 		console.log('Create database OK');
 		
-		db.transaction(function(tx) {
+		db.transaction
+		(
+		function(tx) {
 			tx.executeSql('INSERT INTO pointsInteret VALUES(?,?,?,?)' , ["toto","totodescription", 47.5, 127.5]);
-		}, function(error) {
+		}, 
+		function(error) 
+		{
 			console.log('Transaction ERROR: ' + error.message);
-		}, function() {
+		}, 
+		function() 
+		{
 			console.log('Populated database OK');
 			
 			remplirListe();
@@ -233,15 +259,20 @@ function onMapReady() {
   var button = document.getElementById("button");
   button.addEventListener("click", onButtonClick);
 }
+function onMapReady2() {
+  var button = document.getElementById("button");
+  button.addEventListener("deviceready", onButtonClick);
+}
 function onButtonClick() {
-	var gpslat = 20.0;
-	var gpslng = 27.3;
+	var gpslat = 48.0;
+	var gpslng = 7.3;
 	
 	navigator.geolocation.getCurrentPosition(
 		function(position){
 			//Succès
 			gpslat = position.coords.latitude;
 			gpslng = position.coords.longitude;
+			console.log("yipiii kayyyyyyyyyyyyyye");
 		},
 		function(){
 			//Erreur
@@ -300,7 +331,7 @@ function onButtonClick() {
 $("#ouSuisje").click(function() {
 $.mobile.changePage("#three");
   // Move to the position with animation
-  onMapReady();
+  onMapReady2();
   /*Mark({lat: $("#latitude").val(), lng: $("#longitude").val()});*/
   map.animateCamera({
     target: {lat: $("#latitude").val(), lng: $("#longitude").val()},
