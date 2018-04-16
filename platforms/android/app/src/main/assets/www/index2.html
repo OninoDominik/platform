@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!--<meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *; img-src 'self' data: content:;">-->
+        <meta name="format-detection" content="telephone=no">
+        <meta name="msapplication-tap-highlight" content="no">
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+        <link rel="stylesheet" type="text/css" href="css/index.css">
+        <link rel="stylesheet" type="text/css" href="js/jquery.mobile-1.4.5/jquery.mobile-1.4.5.css">
+		<script type="text/javascript" src="js/jquery-1.11.3.js"></script>
+        <title>Hello World</title>
+    </head>
+    <body>
+        <!-- Start of first page: #one -->
+<div data-role="page" id="one">
+
+	<div data-role="header">
+		<h1>Tourisme</h1>
+			<a href="#three" id="ajout" class="ui-btn-right ui-btn ui-corner-all ui-btn-icon-notext ui-icon-plus"></a>
+	</div><!-- /header -->
+
+	<div role="main" class="ui-content">
+		<ul data-role="listview" id="listeLieux">
+		
+		</ul>
+	</div><!-- /content -->
+	<div data-role="footer" data-position="fixed">
+		
+    <div data-role="navbar">
+        <ul>
+            <li><a href="#two" id="valide2" data-icon="ui-btn-right ui-btn ui-corner-all ui-btn-icon ui-icon-plus">Ajout lieux</a></li>
+        </ul>
+    </div><!-- /navbar -->
+	</div><!-- /footer -->
+</div><!-- /page one -->
+
+
+<!-- Start of second page: #two -->
+<div data-role="page" id="two" data-theme="a">
+
+	<div data-role="header" data-position="fixed">
+		<h1>lieux</h1>
+		<a href="#one" id="btn_retour" class="ui-btn-left ui-btn ui-corner-all ui-btn-icon-notext ui-icon-carat-l"></a>
+	</div><!-- /header -->
+
+	<div role="main" class="ui-content">
+	
+		<form>
+			<input name="text-1" id="lieuNom" value="" type="text" placeholder="Nom">
+			<textarea id="lieuDesc" name="message" cols="48" rows="5"> </textarea>
+			<input name="text-1" id="latitude" value="" type="text" placeholder="latitude">
+			<input name="text-1" id="longitude" value="" type="text" placeholder="longitude">
+			</select>
+		</form>
+	</div><!-- /content -->
+
+	<div data-role="footer" data-position="fixed">
+		
+    <div data-role="navbar">
+        <ul>
+            <li><a href="#one" id="valide" data-icon="check"></a></li>
+            <li><a href="#one" data-icon="delete"></a></li>
+        </ul>
+    </div><!-- /navbar -->
+	</div><!-- /footer -->
+</div><!-- /page two -->
+<div data-role="page" id="three" data-theme="a">
+
+	<div data-role="header" data-position="fixed">
+		<h1>Geolocalisation</h1>
+		<a href="#one" id="btn_retour" class="ui-btn-left ui-btn ui-corner-all ui-btn-icon-notext ui-icon-carat-l"></a>
+	</div><!-- /header -->
+
+	<div role="main" class="ui-content">
+	
+	  <div id="map_canvas" style="height: 100vw; min-height: 200px"></div>
+	  <button id="button">MARK</button>
+	</div><!-- /content -->
+
+	<div data-role="footer" data-position="fixed">
+		
+    <div data-role="navbar">
+        <ul>
+            <li><a href="#" id="valideGeo" data-icon="check"></a></li>
+            <li><a href="#" data-icon="deleteGeo"></a></li>
+        </ul>
+    </div><!-- /navbar -->
+	</div><!-- /footer -->
+</div><!-- /page two -->
+	
+		<script type="text/javascript" src="js/jquery.mobile-1.4.5/jquery.mobile-1.4.5.js"></script>
+		<script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+    </body>
+</html>

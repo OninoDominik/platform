@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *; img-src 'self' data: content:;">
+        <meta name="format-detection" content="telephone=no">
+        <meta name="msapplication-tap-highlight" content="no">
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+        <!--<link rel="stylesheet" type="text/css" href="css/index.css">-->
+		<link rel="stylesheet" type="text/css" href="js/jquery.mobile-1.4.5/jquery.mobile-1.4.5.css">
+		<script type="text/javascript" src="js/jquery-1.11.3.js"></script>
+        <title>Lieux a Retenir</title>
+    </head>
+    <body>
+	<!-- Start of first page: #one -->
+	<div data-role="page" id="one">
+		<div data-role="header">
+			<h1>Lieux</h1>
+				<a href="#two" id="ajouter" class="ui-btn-right ui-btn ui-corner-all ui-btn-icon-notext ui-icon-plus"></a>
+		</div><!-- /header -->
+		<div role="main" class="ui-content">
+		<ul  data-role="listview" id="listeLieux" >
+		</ul>
+	</div><!-- /content -->
+		<div data-role="footer" data-position="fixed">
+			<div data-role="navbar">
+				<ul>
+					<li><a href="#three" class="ui-btn-location">Ou suis Je ?</a></li>
+				</ul>
+			</div><!-- /navbar -->
+		</div><!-- /footer -->
+	</div><!-- /page one -->
+	<!-- Start of second page: #two -->
+	<div data-role="page" id="two">
+		<div data-role="header">
+		<h1>Two</h1>
+			<a href="#one" id="annullation" class="ui-btn-left ui-btn ui-corner-all ui-btn-icon-notext ui-icon-arrow-l"></a>
+		</div><!-- /header -->
+
+		<div role="main" class="ui-content">
+			<input type="text" id="lieuxNom" placeholder="Nom " />
+			<input type="text" id="lieuxDec" placeholder="Description" />
+			<input type="number" id="latitude" placeholder="Latitude" />
+			<input type="number" id="longitude" placeholder="Longitude" />
+		</div><!-- /content -->
+
+		<div data-role="footer" data-position="fixed">
+			<div data-role="navbar">
+				<ul>
+					<li><a href="#" id="validation" data-icon="check"></a></li>
+					<li><a href="#" id="suppression" data-icon="delete"></a></li>
+					<li><a href="#" id="geolocaliseMoi" data-icon="location"></a></li>
+					<li><a href="#" id="ouSuisje" data-icon="ui-shadow location"></a></li>
+				</ul>
+			</div><!-- /navbar -->
+		</div><!-- /footer -->
+	</div><!-- /page two -->
+	
+		<!-- Start of second page: #three -->
+	<div data-role="page" id="three">
+
+		<div data-role="header">
+		<h1>Geolocalisation :</h1>
+			<a href="#one" id="annullation" class="ui-btn-left ui-btn ui-corner-all ui-btn-icon-notext ui-icon-arrow-l"></a>
+		</div><!-- /header -->
+
+		<div role="main" class="ui-content">
+			
+			<div id="map_canvas" style="height: 100vw; min-height: 200px"></div>
+			
+		</div><!-- /content -->
+
+		<div data-role="footer" data-position="fixed">
+			<div data-role="navbar">
+				<ul>
+					<li><a href="#three" ><button id="button" class="ui-btn-location">Ou suis Je ?</button></a></li>
+				</ul>
+			</div><!-- /navbar -->
+		</div><!-- /footer -->
+
+	</div><!-- /page three -->
+
+		
+		<script type="text/javascript" src="js/jquery.mobile-1.4.5/jquery.mobile-1.4.5.js"></script>
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+    </body>
+</html>

@@ -1,0 +1,250 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [:tbxml-android:] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\tbxml-android.aar\5f43812c4e463d64d10562f00d9c59d7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.0.aar\70ddeaab476202ea11cead6c1a4dc8c0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-location-12.0.0.aar\5d7c5040e69ffe3177364b86568f542d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.0.aar\ce09efbf6d31ea21dcf29e032f3fc5a8\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.0.aar\363e78464abf19f0fcf3496c15e64809\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\253ed4a2e3d3d750d3ea39d2b18e326e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f852dbee42c580573031db5a97ae7551\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f541c41a80f23ebabec180435a769bd9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\15b8cbb8db416f79d74f33b72ff92b67\AndroidManifest.xml:17:1-31:12
+MERGED from [:CordovaLib] D:\ProjetCordova\course\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:1-27:12
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-12.0.0.aar\170931a054a79cb34f1b5051b88b98f5\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-location-license:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-location-license-12.0.0.aar\0c48c42b40beb6ccf401c06985ff1adf\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.0.aar\0d1575252a1cec4eaa9222295706b3fb\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.0.aar\bda5d0d2ad8019a2c59585f416a9852c\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.0.aar\58580e5e7e739d4f902489e5f92b0f13\AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\98295ff2c84c9507b0f4153a28d0d0f4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d57f639fbcffce72457c4d515ccf1478\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\af706aea9673dc4bcf774f7caf151d78\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\101639545d3ff1d4eb4ddb28df99c915\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:2:102-135
+		INJECTED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:2:74-101
+		INJECTED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:2:136-194
+	android:versionCode
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:2:46-73
+		INJECTED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:3:5-191
+	android:largeScreens
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:3:23-48
+uses-permission#android.permission.INTERNET
+ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.0.aar\70ddeaab476202ea11cead6c1a4dc8c0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.0.aar\70ddeaab476202ea11cead6c1a4dc8c0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:5:5-14:19
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.0.aar\70ddeaab476202ea11cead6c1a4dc8c0\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.0.aar\70ddeaab476202ea11cead6c1a4dc8c0\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-location-12.0.0.aar\5d7c5040e69ffe3177364b86568f542d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-location-12.0.0.aar\5d7c5040e69ffe3177364b86568f542d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.0.aar\ce09efbf6d31ea21dcf29e032f3fc5a8\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.0.aar\ce09efbf6d31ea21dcf29e032f3fc5a8\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.0.aar\363e78464abf19f0fcf3496c15e64809\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.0.aar\363e78464abf19f0fcf3496c15e64809\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\253ed4a2e3d3d750d3ea39d2b18e326e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\253ed4a2e3d3d750d3ea39d2b18e326e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f852dbee42c580573031db5a97ae7551\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f852dbee42c580573031db5a97ae7551\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f541c41a80f23ebabec180435a769bd9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f541c41a80f23ebabec180435a769bd9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\15b8cbb8db416f79d74f33b72ff92b67\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\15b8cbb8db416f79d74f33b72ff92b67\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-12.0.0.aar\170931a054a79cb34f1b5051b88b98f5\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-12.0.0.aar\170931a054a79cb34f1b5051b88b98f5\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-location-license:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-location-license-12.0.0.aar\0c48c42b40beb6ccf401c06985ff1adf\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-location-license:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-location-license-12.0.0.aar\0c48c42b40beb6ccf401c06985ff1adf\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-base-license:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.0.aar\0d1575252a1cec4eaa9222295706b3fb\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-base-license:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.0.aar\0d1575252a1cec4eaa9222295706b3fb\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.0.aar\bda5d0d2ad8019a2c59585f416a9852c\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.0.aar\bda5d0d2ad8019a2c59585f416a9852c\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.0.aar\58580e5e7e739d4f902489e5f92b0f13\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.0.aar\58580e5e7e739d4f902489e5f92b0f13\AndroidManifest.xml:5:5-6:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\98295ff2c84c9507b0f4153a28d0d0f4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\98295ff2c84c9507b0f4153a28d0d0f4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d57f639fbcffce72457c4d515ccf1478\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d57f639fbcffce72457c4d515ccf1478\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\af706aea9673dc4bcf774f7caf151d78\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\af706aea9673dc4bcf774f7caf151d78\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\101639545d3ff1d4eb4ddb28df99c915\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\101639545d3ff1d4eb4ddb28df99c915\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:5:114-140
+	android:label
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:5:81-113
+	android:hardwareAccelerated
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:5:18-52
+	android:icon
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:5:53-80
+activity#io.cordova.hellocordova.MainActivity
+ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:6:9-11:20
+	android:label
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:6:97-134
+	android:launchMode
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:6:135-165
+	android:windowSoftInputMode
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:6:257-299
+	android:configChanges
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:6:19-96
+	android:theme
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:6:194-256
+	android:name
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:6:166-193
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:7:13-10:29
+	android:label
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:7:28-65
+action#android.intent.action.MAIN
+ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:9:17-77
+	android:name
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:9:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:12:9-124
+	android:value
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:12:66-121
+	android:name
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:12:20-65
+meta-data#com.google.android.gms.version
+ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:13:9-122
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\253ed4a2e3d3d750d3ea39d2b18e326e\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\253ed4a2e3d3d750d3ea39d2b18e326e\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:13:66-119
+	android:name
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:13:20-65
+uses-sdk
+ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:15:5-74
+MERGED from [:tbxml-android:] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\tbxml-android.aar\5f43812c4e463d64d10562f00d9c59d7\AndroidManifest.xml:7:5-43
+MERGED from [:tbxml-android:] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\tbxml-android.aar\5f43812c4e463d64d10562f00d9c59d7\AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.0.aar\70ddeaab476202ea11cead6c1a4dc8c0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.0.aar\70ddeaab476202ea11cead6c1a4dc8c0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-location-12.0.0.aar\5d7c5040e69ffe3177364b86568f542d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-location-12.0.0.aar\5d7c5040e69ffe3177364b86568f542d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.0.aar\ce09efbf6d31ea21dcf29e032f3fc5a8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.0.aar\ce09efbf6d31ea21dcf29e032f3fc5a8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.0.aar\363e78464abf19f0fcf3496c15e64809\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.0.aar\363e78464abf19f0fcf3496c15e64809\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\253ed4a2e3d3d750d3ea39d2b18e326e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\253ed4a2e3d3d750d3ea39d2b18e326e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f852dbee42c580573031db5a97ae7551\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f852dbee42c580573031db5a97ae7551\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f541c41a80f23ebabec180435a769bd9\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f541c41a80f23ebabec180435a769bd9\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\15b8cbb8db416f79d74f33b72ff92b67\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\15b8cbb8db416f79d74f33b72ff92b67\AndroidManifest.xml:21:5-23:61
+MERGED from [:CordovaLib] D:\ProjetCordova\course\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] D:\ProjetCordova\course\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\98295ff2c84c9507b0f4153a28d0d0f4\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\98295ff2c84c9507b0f4153a28d0d0f4\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d57f639fbcffce72457c4d515ccf1478\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d57f639fbcffce72457c4d515ccf1478\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\af706aea9673dc4bcf774f7caf151d78\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\af706aea9673dc4bcf774f7caf151d78\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\101639545d3ff1d4eb4ddb28df99c915\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\101639545d3ff1d4eb4ddb28df99c915\AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f852dbee42c580573031db5a97ae7551\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:15:42-71
+	android:minSdkVersion
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:15:15-41
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:16:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.0.aar\70ddeaab476202ea11cead6c1a4dc8c0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.0.aar\70ddeaab476202ea11cead6c1a4dc8c0\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:18:22-76
+uses-feature#0x00020000
+ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.0.aar\70ddeaab476202ea11cead6c1a4dc8c0\AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.0.aar\70ddeaab476202ea11cead6c1a4dc8c0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:19:19-51
+	android:required
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:19:52-75
+uses-feature#android.hardware.location
+ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:20:5-62
+	android:name
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:20:19-59
+uses-feature#android.hardware.location.gps
+ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:21:19-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12 reason: za.co.twyst has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12 reason: za.co.twyst has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\ProjetCordova\course\platforms\android\app\src\main\AndroidManifest.xml:2:1-22:12 reason: za.co.twyst requested WRITE_EXTERNAL_STORAGE
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.0.aar\ce09efbf6d31ea21dcf29e032f3fc5a8\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.0.aar\ce09efbf6d31ea21dcf29e032f3fc5a8\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.0.aar\ce09efbf6d31ea21dcf29e032f3fc5a8\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.0.aar\ce09efbf6d31ea21dcf29e032f3fc5a8\AndroidManifest.xml:24:13-79
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f852dbee42c580573031db5a97ae7551\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f541c41a80f23ebabec180435a769bd9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f541c41a80f23ebabec180435a769bd9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\15b8cbb8db416f79d74f33b72ff92b67\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\15b8cbb8db416f79d74f33b72ff92b67\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\98295ff2c84c9507b0f4153a28d0d0f4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\98295ff2c84c9507b0f4153a28d0d0f4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d57f639fbcffce72457c4d515ccf1478\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d57f639fbcffce72457c4d515ccf1478\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\af706aea9673dc4bcf774f7caf151d78\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\af706aea9673dc4bcf774f7caf151d78\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f852dbee42c580573031db5a97ae7551\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f852dbee42c580573031db5a97ae7551\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\101639545d3ff1d4eb4ddb28df99c915\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\101639545d3ff1d4eb4ddb28df99c915\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\adai06\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\101639545d3ff1d4eb4ddb28df99c915\AndroidManifest.xml:26:13-58
