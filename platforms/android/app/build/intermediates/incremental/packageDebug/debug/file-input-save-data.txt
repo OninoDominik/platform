@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Apr 16 16:46:03 CEST 2018
+#Mon Apr 16 16:57:06 CEST 2018
 100.set=ASSET
 57.file=D\:\\ProjetCordova\\course\\platforms\\android\\app\\build\\intermediates\\assets\\debug\\www\\js\\jquery.mobile-1.4.5\\demos\\toolbar-fixed-persistent\\page-b.html
 145.file=D\:\\ProjetCordova\\course\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable\\common_google_signin_btn_icon_dark.xml

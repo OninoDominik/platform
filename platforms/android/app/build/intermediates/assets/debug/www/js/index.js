@@ -260,8 +260,9 @@ function onMapReady() {
   button.addEventListener("click", onButtonClick);
 }
 function onMapReady2() {
-  var button = document.getElementById("button");
+	var button = document.getElementById("button");
   button.addEventListener("deviceready", onButtonClick);
+  
 }
 function onButtonClick() {
 	var gpslat = 48.0;
@@ -330,8 +331,8 @@ function onButtonClick() {
 
 $("#ouSuisje").click(function() {
 $.mobile.changePage("#three");
+onMapReady();
   // Move to the position with animation
-  onMapReady2();
   /*Mark({lat: $("#latitude").val(), lng: $("#longitude").val()});*/
   map.animateCamera({
     target: {lat: $("#latitude").val(), lng: $("#longitude").val()},
@@ -346,7 +347,7 @@ $.mobile.changePage("#three");
       position: {lat: $("#latitude").val(), lng: $("#longitude").val()},
       title: $("#lieuxNom").val(),
       snippet: $("#lieuxDec").val(),
-      animation: plugin.google.maps.Animation.DROP
+      animation: plugin.google.maps.Animation.BOUNCE
     }, function(marker) {
 
       // Show the info window
